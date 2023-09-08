@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "types": [
+      "react-native",
+      "@react-native-community/geolocation",
+      "react-native-vector-icons"
+    ]
+  }
+}
